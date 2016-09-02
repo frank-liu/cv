@@ -27,11 +27,11 @@
     },
     "career": {
         "my_career": "职业生涯",
-        "nextcode": "Nextcode",
-        "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
-        "nextcode_date": "2016年4月",
+        "nextcode": "Netwroks Ltd",
+        "nextcode_des": "待续.",
+        "nextcode_date": "2016年9月",
         "nextcode_job": "软件工程师",
-        "netease": "Swansea University",
+        "netease": "Swansea University (United Kingdom)",
         "netease_des": "就读期间, 从事AODV路由协议安全性的研究.",
         "netease_date": "2012年3月",
         "netease_job": "研究型硕士 (M.Phil)",
@@ -42,7 +42,11 @@
         "college": "硕士毕业",
         "college_des": "2010年7月毕业于西安交通大学",
         "college_date": "2010年7月",
-        "college_job": "机械制造及其自动化专业硕士研究生"
+        "college_job": "机械制造及其自动化专业硕士研究生"，
+        "univ": "本科毕业",
+        "univ_des": "2010年7月毕业于西安交通大学",
+        "univ_date": "2010年7月",
+        "univ_job": "机械制造及其自动化专业硕士研究生"
     },
     "blog": {
         "my_blog": "刘鹏的博客"
