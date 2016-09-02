@@ -5,7 +5,7 @@
     "nav": {
         "home": "首页",
         "about_me": "关于我",
-        "skills": "技能",
+        "skills": "技术",
         "projects": "项目",
         "career": "职业",
         "blog": "博客",
@@ -16,10 +16,10 @@
         "des": "加州的阳光 五大湖的冰霜 纷花绿叶 飘扬在彼岸重洋"
     },
     "skills": {
-        "my_skills": "我的技能"
+        "my_skills": "技术技能"
     },
     "projects": {
-        "my_projects": "我的项目",
+        "my_projects": "项目经历",
         "saplatform": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
         "jalpc": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它有非常全面的功能，可以很方便的修改和使用，适应多种设备。",
         "angularjs": "这是一个Angularjs写的前端应用，使用Jelyll部署在github的gh-pages上，后台使用Leancloud，你也可以使用Parse。",
@@ -30,22 +30,22 @@
         "nextcode": "Nextcode",
         "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
         "nextcode_date": "2016年4月",
-        "nextcode_job": "Python工程师",
-        "netease": "网易游戏",
-        "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
-        "netease_date": "2015年6月",
-        "netease_job": "运维开发工程师",
+        "nextcode_job": "软件工程师",
+        "netease": "Swansea University",
+        "netease_des": "就读期间, 从事AODV路由协议安全性的研究.",
+        "netease_date": "2012年3月",
+        "netease_job": "研究型硕士 (M.Phil)",
         "ucloud": "Ucloud",
-        "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
-        "ucloud_date": "2013年9月",
-        "ucloud_job": "运维开发工程师",
+        "ucloud_des": "毕业后, 在应用材料(西安)有限公司工作2个月.",
+        "ucloud_date": "2010年9月",
+        "ucloud_job": "软件工程师",
         "college": "毕业",
-        "college_des": "2013年7月大学毕业，开始了IT职业生涯",
-        "college_date": "2013年7月",
-        "college_job": "学生"
+        "college_des": "2010年7月研究生毕业于西安交通大学",
+        "college_date": "2010年7月",
+        "college_job": "机械制造及其自动化专业硕士研究生"
     },
     "blog": {
-        "my_blog": "我的博客"
+        "my_blog": "刘鹏的博客"
     },
     "link": {
         "link": "友情链接",
