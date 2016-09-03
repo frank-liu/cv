@@ -125,7 +125,7 @@ public class Listener_Dad
 
 # 4. 代码分析
 使用委托-事件,必须有3个步骤：
-```c#
+``` c#
     //1.声明一个委托，其实就是个“命令”
 	public delegate void cryEventHandler(Baby sender, currentTime e);
 	//2.声明一个事件, 基于该“命令”
