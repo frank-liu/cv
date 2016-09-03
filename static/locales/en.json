@@ -13,7 +13,7 @@
     },
     "about_me": {
         "about_me": "About Me",
-        "des": "I am a software engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+        "des": ["Over 4-year experience on programming.", "Conscientious, Work hard and Pay attention to detail.", "Quick to pick up new skills and eager to learn from others.","Have lots of ideas and enthusiasm","Delighted to discuss technical things"]
     },
     "skills": {
         "my_skills": "My Skills"
@@ -27,7 +27,7 @@
     },
     "career": {
         "my_career": "My Career",
-        "nextcode": "Networks Ltd",
+        "nextcode": "S Networks Ltd",
         "nextcode_des": "Now I am doing some projects on .NET platform",
         "nextcode_date": "Apr. 2016",
         "nextcode_job": "Software Engineer",

@@ -41,10 +41,10 @@ landing:
 
 # my projects
 project:
-  saplatform:
-    name: 'Saplatform'
+  swanlinux:
+    name: 'SwanLinux'
     url: '/Jack614/saplatform'
-    img: 'static/img/landing/saplatform.png'
+    img: 'static/img/landing/linux.png'
   jalpc:
     name: 'Jalpc'
     url: '/Jack614/jalpc_jekyll_theme'
@@ -70,8 +70,8 @@ index:
 
 # donate
 donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+  wechat: 'static/img/pay/mywechat.png'
+  alipay: 'static/img/pay/myalipay.png'
 
 # comment
 changyan:
