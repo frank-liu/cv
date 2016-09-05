@@ -4,7 +4,7 @@ title:  "StackEdit Markdown Sample"
 date:   2016-09-02
 desc: "markdown file sample"
 keywords: "markdown"
-categories: [HTML]
+categories: [Markdown]
 tags: [C#,.NET]
 icon: icon-html
 ---
@@ -31,25 +31,25 @@ StackEdit stores your documents in your browser, which means all your documents 
 > - Your local documents are not shared between different browsers or computers.
 > - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
 
-### <i class="fa icon-html"></i> Create a document
+## <i class="fa icon-html"></i> Create a document
 
 The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
 
 
-### <i class="blue fa fa-linux'">&#xf17c;</i> Switch to another document
+## <i class="fa fa-linux'">&#xf17c;</i> Switch to another document
 
 
 All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>.
 
-#### <i class="icon-pencil"></i> Rename a document
+## <i class="icon-pencil"></i> Rename a document
 
 You can rename the current document by clicking the document title in the navigation bar.
 
-#### <i class="icon-trash"></i> Delete a document
+## <i class="icon-trash"></i> Delete a document
 
 You can delete the current document by clicking <i class="icon-trash"></i> **Delete document** in the document panel.
 
-#### <i class="icon-hdd"></i> Export a document
+## <i class="icon-hdd"></i> Export a document
 
 You can save the current document to a file by clicking <i class="icon-hdd"></i> **Export to disk** from the <i class="icon-provider-stackedit"></i> menu panel.
 
