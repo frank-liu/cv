@@ -1,5 +1,15 @@
-----------
+---
+layout: post
+title:  "StackEdit Markdown Sample"
+date:   2016-09-02
+desc: "markdown file sample"
+keywords: "markdown"
+categories: [HTML]
+tags: [C#,.NET]
+icon: icon-html
+---
 
+----------
 
 Welcome to StackEdit!
 ===================
