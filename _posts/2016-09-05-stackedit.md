@@ -36,7 +36,7 @@ StackEdit stores your documents in your browser, which means all your documents 
 The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
 
 
-### <i class="icon-folder-open"></i> Switch to another document
+### <i class="content:'\e840'"></i> Switch to another document
 
 
 All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>.
