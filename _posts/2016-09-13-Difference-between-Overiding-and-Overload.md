@@ -11,8 +11,6 @@ icon: icon-csharp
 
 ----------
 
-Difference between Override and Overload
-===================
 
 
 ![pic](https://users.soe.ucsc.edu/~charlie/book/notes/chap7/img012.gif)
