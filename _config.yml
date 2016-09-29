@@ -46,11 +46,11 @@ project:
     url: '/Jack614/saplatform'
     img: 'static/img/landing/linux.png'
   AODV-ET:
-    name: 'SAODV'
+    name: 'AODV-ET'
     url: '/Jack614/jalpc_jekyll_theme'
     img: 'static/img/landing/jekyll.png'
   SwanmeshWebsite:
-    name: 'SwanMesh Website'
+    name: 'SwanmeshWebsite'
     url: '/Jack614/Jalpc-A'
     img: 'static/img/landing/angularjs.png'
   BProperty:
