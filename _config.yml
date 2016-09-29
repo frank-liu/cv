@@ -45,16 +45,16 @@ project:
     name: 'SwanLinux'
     url: '/Jack614/saplatform'
     img: 'static/img/landing/linux.png'
-  jalpc:
-    name: 'Jalpc'
+  SAODV:
+    name: 'SAODV'
     url: '/Jack614/jalpc_jekyll_theme'
     img: 'static/img/landing/jekyll.png'
-  angularjs:
-    name: 'Jalpc-A'
+  SwanmeshWebsite:
+    name: 'SwanMesh Website'
     url: '/Jack614/Jalpc-A'
     img: 'static/img/landing/angularjs.png'
-  Rsser:
-    name: 'Rsser'
+  BProperty:
+    name: 'BProperty'
     url: '/Jack614/Rsser'
     img: 'static/img/landing/rsser.png'
 

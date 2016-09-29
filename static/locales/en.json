@@ -20,10 +20,10 @@
     },
     "projects": {
         "my_projects": "My Projects",
-        "E-Commerce": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-        "AODV": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-        "Linux": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-        "WordPress": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+        "swanlinux": "SwanLinux is a customised Linux for AODV routing protocol. It's small, stable and secure.",
+        "AODV-ET": "AODV-ET is a kind of AODV based on the algorithm of EginTrust.It was developed by gcc 4.3.3 and based on AODV-UU-0.9.6",
+        "SwanmeshWebsite": "It was built by WordPress.",
+        "BProperty": "It's developed by ASP.NET MVC in Visual Studio."
     },
     "career": {
         "my_career": "My Career",
@@ -35,12 +35,12 @@
         "netease_des": "Research on security of protocols for wireless networks.",
         "netease_date": "Mar. 2012",
         "netease_job": "Master of Philosophy",
-        "ucloud": "Applied Materials, Inc (Xi'an)",
-        "ucloud_des": "I worked as a software engineer for 2 months in Xi'an R&D centre of Applied Materials, Inc.",
+        "ucloud": "Applied Materials, Inc (Xi'an, China)",
+        "ucloud_des": "I worked as a software engineer for 2 months in Xi'an R&D centre of Applied Materials, Inc. My work is developping code for moderately software projects, and designing and implement bug fixes.",
         "ucloud_date": "Sep. 2010",
         "ucloud_job": "Software Engineer",
         "college": "Xi'an Jiaotong University (China)",
-        "college_des": "I graduated from Xi'an Jiaotong University (XJTU) on the subject of Mechanical Engineering at July 2010.",
+        "college_des": "I graduated from Xi'an Jiaotong University on the subject of Mechanical Automation and Mechatronics in July 2010.",
         "college_date": "Jul. 2010",
         "college_job": "Master"
     },
