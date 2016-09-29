@@ -28,12 +28,7 @@
     "career": {
         "my_career": "My Career",
         "nextcode": "SwanMesh Networks Ltd",
-        "nextcode_des": ["In the first 2 years when I joined in SwanMesh, I had been responsible for building a Wireless Secure Network and related products. It mainly includs: Linux customisation for embedded devices (PC Engine ALIX system boards), 
-		applying cipher encryption algorithm into AODV routing protocol, 
-		Implementation of the improved protocol into the ALIX,
-		setting up APs (Access Points) in the network, 
-		building and deploying a secure ad-hoc network based on the cipher algorithm and ALIX. Then, I switched to dedicate to web development, such as: working with end users to gather
-		requirements, and using CMS (WordPress), framework (Bootstrap) and web-front technology (JavaScript, JQuery, HTML, CSS), and ASP.NET MVC to design, implement and enhance new and existing websites."],
+        "nextcode_des": "In the first 2 years when I joined in SwanMesh, I had been responsible for building a Wireless Secure Network and related products. It mainly includs: Linux customisation for embedded devices (PC Engine ALIX system boards),applying cipher encryption algorithm into AODV routing protocol,Implementation of the improved protocol into the ALIX,setting up APs (Access Points) in the network,building and deploying a secure ad-hoc network based on the cipher algorithm and ALIX. Then, I switched to dedicate to web development, such as: working with end users to gather requirements, and using CMS (WordPress), framework (Bootstrap) and web-front technology (JavaScript, JQuery, HTML, CSS), and ASP.NET MVC to design, implement and enhance new and existing websites.",
         "nextcode_date": "Apr. 2016",
         "nextcode_job": "Software Engineer",
         "netease": "Swansea University (United Kingdom)",
