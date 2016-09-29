@@ -50,13 +50,13 @@ project:
     url: '/Jack614/jalpc_jekyll_theme'
     img: 'static/img/landing/jekyll.png'
   SwanmeshWebsite:
-    name: 'SwanmeshWebsite'
+    name: 'Swanmesh'
     url: '/Jack614/Jalpc-A'
-    img: 'static/img/landing/angularjs.png'
+    img: 'static/img/landing/wordpress.png'
   BProperty:
     name: 'BProperty'
     url: '/Jack614/Rsser'
-    img: 'static/img/landing/rsser.png'
+    img: 'static/img/landing/asp_net.jpg'
 
 # blog index
 index:
